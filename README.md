@@ -4,6 +4,7 @@
 
 > [Python](https://www.python.org/), [PyQt5](https://doc.qt.io/qtforpython/), [SQLite3](https://www.sqlite.org/index.html), [GUI](https://en.wikipedia.org/wiki/Graphical_user_interface), [CS50](https://cs50.harvard.edu/x/2020/)
 ## URL
+> [Video](https://youtu.be/H7qL61GzwY8)
 ## Explaining the project and the database
 
 My Project is a GUI app that allows the user to encrypt the desired message, so that no one knows it's content.
